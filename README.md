@@ -32,20 +32,20 @@ Before starting, please install the following tools (latest versions recommended
 Each step has its own folder 📂 with a detailed `README.md`.  
 Click the **logos/emojis** below to jump directly to that step’s guide:  
 
+
 | Step | Topic | Link |
 |------|-------|------|
-| 01 | 🖥️ **Introduction & Git Basics** | [📂 Step_01-Starting_With_GitHub](./Step_01-Starting_With_GitHub/README.md) |
-| 02 | 📝 **Application Development** | [📂 Step_02-AppDevelopment](./Step_02-AppDevelopment/README.md) |
-| 03 | 🍃 **MongoDB Installation** | [📂 Step_03-MongoDB_Installation_And_Configuration](./Step_03-MongoDB_Installation_And_Configuration/README.md) |
-| 04 | 🐳 **Docker** | [📂 Step_04-Docker_Setup_and_Implementation](./Step_04-Docker_Setup_and_Implementation/README.md) |
-| 05 | ☸️ **Kubernetes** | [📂 Step_05-K8_Setup_And_Implementation](./Step_05-K8_Setup_And_Implementation/README.md) |
-| 06 | 🔄 **Continuous Integration (CI)** | [📂 Step_06-Continuous_Integration(CI)](./Step_06-Continuous_Integration(CI)/README.md) |
-| 07 | 🚀 **Continuous Deployment (CD)** | [📂 Step_07-Continuous_Deployment(CD)](./Step_07-Continuous_Deployment(CD)/README.md) |
+| 01 | 🖥️ **Python AI application** | [📂 Step_01-Starting_With_GitHub](./Step_01-Starting_With_GitHub/README.md) |
+| 02 | 📝 **AI Agent + Tools based on LLM (Large Language Model) and OpenRouter** | [📂 Step_02-AppDevelopment](./Step_02-AppDevelopment/README.md) |
+| 03 | 🍃 **Web/API interface and python test** | [📂 Step_03-MongoDB_Installation_And_Configuration](./Step_03-MongoDB_Installation_And_Configuration/README.md) |
+| 04 | 🐳 **Chatbot into Docker** | [📂 Step_04-Docker_Setup_and_Implementation](./Step_04-Docker_Setup_and_Implementation/README.md) |
+| 05 | ☸️ **n8n into Docker + integrated with AI Agent** | [📂 Step_05-K8_Setup_And_Implementation](./Step_05-K8_Setup_And_Implementation/README.md) |
+| 06 | 🔄 **local-llm-ollama** | [📂 Step_06-Continuous_Integration(CI)](./Step_06-Continuous_Integration(CI)/README.md) |
+| 07 | 🚀 **GitHub Actions CI/CD** | [📂 Step_07-Continuous_Deployment(CD)](./Step_07-Continuous_Deployment(CD)/README.md) |
 | 08 | 📦 **Infrastructure as Code (IaC)** | [📂 Step_08-Infrastructure_As_Code(IaC)](./Step_08-Infrastructure_As_Code(IaC)/README.md) |
 | 09 | 📊 **Monitoring & Logging** | [📂 Step_09-Monitoring_And_Logging](./Step_09-Monitoring_And_Logging/README.md) |
 | 10 | 🔐 **Security Implementation** | [📂 Step_10-Security_Implementation](./Step_10-Security_Implementation/README.md) |
 | 11 | 🏆 **Best Practices** | [📂 Step_11-Best_Practice](./Step_11-Best_Practice/README.md) |
-
 ---
 
 ## 🧩 Project Flow  
