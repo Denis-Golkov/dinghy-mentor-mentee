@@ -34,7 +34,7 @@ Click the **logos/emojis** below to jump directly to that step’s guide:
 
 | Step | Topic | Link |
 |------|-------|------|
-| 01 | 🍃 **Python AI application** | [📂 Step_01-chatbot based on Python AI application](./[Step_01-Starting_With_GitHub/README.md](https://github.com/yehudasho/dinghy-mentor-mentee/blob/01-chatbot/README.md)) |
+| 01 | 🍃 **Python AI application** | [📂 Step_01-chatbot based on Python AI application](./01-chatbot/README.md)) |
 | 02 | 🤖 **AI Agent + Tools based on LLM (Large Language Model) and OpenRouter** | [📂 Step_02-AppDevelopment](./Step_02-AppDevelopment/README.md) |
 | 03 | 🍃 **Web/API interface and python test** | [📂 Step_03-MongoDB_Installation_And_Configuration](./Step_03-MongoDB_Installation_And_Configuration/README.md) |
 | 04 | 🐳 **Chatbot into Docker** | [📂 Step_04-Docker_Setup_and_Implementation](./Step_04-Docker_Setup_and_Implementation/README.md) |
