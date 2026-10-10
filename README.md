@@ -27,8 +27,7 @@ Before starting, please install the following tools (latest versions recommended
 
 ---
 
-## 📖 Table of Contents  
-
+## 📖 Table of Contents
 Each step has its own folder 📂 with a detailed `README.md`.  
 Click the **logos/emojis** below to jump directly to that step’s guide:  
 
@@ -42,6 +41,17 @@ Click the **logos/emojis** below to jump directly to that step’s guide:
 | 05 | ⚡ **n8n into Docker + integrated with AI Agent** | [📂 Step_05-K8_Setup_And_Implementation](./Step_05-K8_Setup_And_Implementation/README.md) |
 | 06 | 🔒 **local-llm-ollama** | [📂 Step_06-Continuous_Integration(CI)](./Step_06-Continuous_Integration(CI)/README.md) |
 | 07 | 🚀 **GitHub Actions CI/CD** | [📂 Step_07-Continuous_Deployment(CD)](./Step_07-Continuous_Deployment(CD)/README.md) |
+
+## 🧩 Project Flow  
+
+1. **Set up Git & version control** 🖥️  
+2. **Develop an application** (Python example provided, but flexible) 📝  
+3. **Add a database** (MongoDB) - Advantage 🍃  
+4. **Containerize with Docker** 🐳  
+   
+
+## 📖 Table of Contents - - Not now, we will do it later on 
+
 
 | Advance Step  | Topic | Link |
 |------|-------|------|
