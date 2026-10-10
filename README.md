@@ -42,6 +42,8 @@ Click the **logos/emojis** below to jump directly to that step’s guide:
 | 05 | ⚡ **n8n into Docker + integrated with AI Agent** | [📂 Step_05-K8_Setup_And_Implementation](./Step_05-K8_Setup_And_Implementation/README.md) |
 | 06 | 🔒 **local-llm-ollama** | [📂 Step_06-Continuous_Integration(CI)](./Step_06-Continuous_Integration(CI)/README.md) |
 | 07 | 🚀 **GitHub Actions CI/CD** | [📂 Step_07-Continuous_Deployment(CD)](./Step_07-Continuous_Deployment(CD)/README.md) |
+
+| Advance Step  | Topic | Link |
 | 08 | 📦 **Infrastructure as Code (IaC)** | [📂 Step_08-Infrastructure_As_Code(IaC)](./Step_08-Infrastructure_As_Code(IaC)/README.md) |
 | 09 | 📊 **Monitoring & Logging** | [📂 Step_09-Monitoring_And_Logging](./Step_09-Monitoring_And_Logging/README.md) |
 | 10 | 🔐 **Security Implementation** | [📂 Step_10-Security_Implementation](./Step_10-Security_Implementation/README.md) |
