@@ -1,6 +1,5 @@
 import os
 
-from dotenv import load_dotenv
 from fastapi import FastAPI
 from openai import OpenAI
 from pydantic import BaseModel
@@ -56,8 +55,7 @@ def chat(request: ChatRequest):
 
     try:
         response = client.chat.completions.create(
-            #model="openai/gpt-oss-20b:free",
-            model="openai/gpt-oss-20b",
+            model="openai/gpt-oss-29m",
             messages=[
                 {
                     "role": "system",
@@ -73,7 +71,7 @@ def chat(request: ChatRequest):
         answer = response.choices[0].message.content
 
         return {
-            "user": request.message,
+            "user": requet.message,
             "answer": answer
         }
 
