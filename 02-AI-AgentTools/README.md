@@ -160,18 +160,4 @@ What is Kubernetes
 
 ```
   - In case it is not work check 
-## Troubleshooting
-### Add Health check of OpenRouter key
-- See the solution in file main-with-open-router file, its including print with Health check key
-```
-print("API KEY EXISTS:", bool(api_key))  
-```
-### Change AI module in case you get error 500
-
-```
-
-            #model="openai/gpt-oss-20b:free",
-            model="openai/gpt-oss-20b",
-
-```
-
+## TBD
