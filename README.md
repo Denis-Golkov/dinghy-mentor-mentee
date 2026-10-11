@@ -35,12 +35,12 @@ Click the **logos/emojis** below to jump directly to that step’s guide:
 | Step | Topic | Link |
 |------|-------|------|
 | 01 | 🍃 **Python AI application** | [📂 Step_01-chatbot based on Python AI application](./01-chatbot/README.md)) |
-| 02 | 🤖 **AI Agent + Tools based on LLM (Large Language Model) and OpenRouter** | [📂 Step_02-AppDevelopment](./Step_02-AppDevelopment/README.md) |
-| 03 | 🍃 **Web/API interface and python test** | [📂 Step_03-MongoDB_Installation_And_Configuration](./Step_03-MongoDB_Installation_And_Configuration/README.md) |
-| 04 | 🐳 **Chatbot into Docker** | [📂 Step_04-Docker_Setup_and_Implementation](./Step_04-Docker_Setup_and_Implementation/README.md) |
-| 05 | ⚡ **n8n into Docker + integrated with AI Agent** | [📂 Step_05-K8_Setup_And_Implementation](./Step_05-K8_Setup_And_Implementation/README.md) |
-| 06 | 🔒 **local-llm-ollama** | [📂 Step_06-Continuous_Integration(CI)](./Step_06-Continuous_Integration(CI)/README.md) |
-| 07 | 🚀 **GitHub Actions CI/CD** | [📂 Step_07-Continuous_Deployment(CD)](./Step_07-Continuous_Deployment(CD)/README.md) |
+| 02 | 🤖 **AI Agent + Tools based on LLM (Large Language Model) and OpenRouter** | [📂 Step_02-AI-Agent Tools](./02-AI-AgentTools/README.md) |
+| 03 | 🍃 **Web/API interface and python test** | [📂 Step_03-Web & API interface with python test](./03-WebAPI-interface/README.md) |
+| 04 | 🐳 **Chatbot into Docker** | [📂 Step_04 - Add chatbot into Docker](./04-chatbot-into-docker/README.md) |
+| 05 | ⚡ **n8n into Docker + integrated with AI Agent** | [📂 Step_05 - n8n node automation platform](./05-n8n-into-docker/README.md) |
+| 06 | 🔒 **local-llm-ollama** | [📂 Step_06 - Ollama is local llm](./06-local-llm-ollama/README.md) |
+| 07 | 🚀 **GitHub Actions CI/CD** | [📂 Step_07-Continuous_Deployment(CD)](./TBD/README.md) |
 
 ## 🧩 Project Flow  
 
