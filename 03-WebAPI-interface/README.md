@@ -1,1 +1,1 @@
-# We will scheduler a solution session via the zoom
+# We will schedule a solution session via the zoom
