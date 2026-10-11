@@ -40,7 +40,7 @@ Click the **logos/emojis** below to jump directly to that step’s guide:
 | 04 | 🐳 **Chatbot into Docker** | [📂 Step_04 - Add chatbot into Docker](./04-chatbot-into-docker/README.md) |
 | 05 | ⚡ **n8n into Docker + integrated with AI Agent** | [📂 Step_05 - n8n node automation platform](./05-n8n-into-docker/README.md) |
 | 06 | 🔒 **local-llm-ollama** | [📂 Step_06 - Ollama is local llm](./06-local-llm-ollama/README.md) |
-| 07 | 🚀 **GitHub Actions CI/CD** | [📂 Step_07-Continuous_Deployment(CD)](./TBD/README.md) |
+| 07 | 🚀 **GitHub Actions CI/CD** | [📂 TBD](./TBD/README.md) |
 
 ## 🧩 Project Flow  
 
@@ -55,10 +55,10 @@ Click the **logos/emojis** below to jump directly to that step’s guide:
 
 | Advance Step  | Topic | Link |
 |------|-------|------|
-| 08 | 📦 **Infrastructure as Code (IaC)** | [📂 Step_08-Infrastructure_As_Code(IaC)](./Step_08-Infrastructure_As_Code(IaC)/README.md) |
-| 09 | 📊 **Monitoring & Logging** | [📂 Step_09-Monitoring_And_Logging](./Step_09-Monitoring_And_Logging/README.md) |
-| 10 | 🔐 **Security Implementation** | [📂 Step_10-Security_Implementation](./Step_10-Security_Implementation/README.md) |
-| 11 | 🏆 **Best Practices** | [📂 Step_11-Best_Practice](./Step_11-Best_Practice/README.md) |
+| 08 | 📦 **Infrastructure as Code (IaC)** | [📂 TBD](./Step_08-Infrastructure_As_Code(IaC)/README.md) |
+| 09 | 📊 **Monitoring & Logging** | [📂 TBD](./Step_09-Monitoring_And_Logging/README.md) |
+| 10 | 🔐 **Security Implementation** | [📂 TBD](./Step_10-Security_Implementation/README.md) |
+| 11 | 🏆 **Best Practices** | [📂 TBD](./Step_11-Best_Practice/README.md) |
 ---
 
 ## 🧩 Project Flow  
